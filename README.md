@@ -1,5 +1,5 @@
 # STD_BUTTON_CONTROL_2
-This project is button control and used Std Library with Stm32f407-Discovery Kit.
+This project is button control and used Std Library with Stm32f407-Discovery Kit. This project was created on Atollic TrueSTUDIO
 //CODES
 
 #include "stm32f4xx.h"
